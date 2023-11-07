@@ -1,4 +1,4 @@
-# techtune_motors
+# TechTune_Motors
 This is a fully responsive and working website for TechTune Motors, RR Nagar that comprises of both front end and back end used for the formation. Also involves the working MySql database used through local host platform for the information gathering and submission.
 
 #Pre-Requisites Must have a table formed with the prescribed values and headings on the local host platform to ensure proper database working. Xampp or Wampp64 must be available along with SQL and Apache turned on before running the project.
